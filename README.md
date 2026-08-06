@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Vedant%20Tayade&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%C2%A0%C2%A0AI%20%26%20Full%20Stack%20Developer%20%7C%20Hackathon%20Enthusiast%20%7C%20CS%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 align="center">Hi 👋, I'm Vedant Tayade</h1>
+<h3 align="center">  AI & Full Stack Developer | Hackathon Enthusiast | CS Student</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Million-mack">
@@ -116,6 +117,9 @@
   </a>
 </p>
 
+## 💬 Quote
+> Building today, innovating tomorrow.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -127,3 +131,4 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
